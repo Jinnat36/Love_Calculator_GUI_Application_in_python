@@ -7,6 +7,7 @@ import random
 # To create main window.
 root=Tk()
 
+# set geometry
 root.geometry('300x200')
 
 # This is title
