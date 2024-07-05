@@ -100,5 +100,7 @@ This project is licensed under the MIT License.
 [Jinnat Ara Khatun]
 
 Output :--
+
+
 ![Screenshot 2024-07-05 131638](https://github.com/Jinnat36/Love_Calculator_GUI_Application_in_python/assets/157870456/05845102-f017-42f3-9f03-d9f829307be5)![Screenshot 2024-07-05 131748](https://github.com/Jinnat36/Love_Calculator_GUI_Application_in_python/assets/157870456/e9479e51-1818-448f-9cdb-cc455d898847)
 
